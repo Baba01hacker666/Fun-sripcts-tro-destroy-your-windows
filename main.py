@@ -4,7 +4,7 @@ a = input("type y to continue:")
 if a=="y":
  while True:
     # Create a directory
-     os.mkdir('Windows)
+     os.mkdir('Windows')
     
     # Change into the directory
      os.chdir('Windows')
